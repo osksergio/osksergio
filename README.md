@@ -1,7 +1,9 @@
-## Olá, eu sou o Sergio Oseko
+## Hey there! I'm Sergio Oseko.
+<a href="https://www.linkedin.com/in/sergio-oseko-57b90437/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a> 
+<a href="mailto:osk.sergio@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>  
 
-- 🔭 Atualmente estou trabalhando com projetos / aplicativos desktop.
-- 🌱 Nos dias atuais, estou estudando Ruby, Ruby on Rails, ferramentas e processos de desenvolvimento.
+- 🔭 I'm currently working with projects/desktop apps.
+- 🌱 Nowadays, I'm studying Ruby, Ruby on Rails, development tools and processes.
 
 <!--
 **osksergio/osksergio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
