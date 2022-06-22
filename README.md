@@ -36,3 +36,5 @@ Here are some ideas to get you started:
         <a href="https://stackshare.io/ubuntu" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" /></a>
         <a href="https://stackshare.io/html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40" /></a>  
         <a href="https://stackshare.io/css" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40" /></a> 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=osksergio" alt="Sergio Oseko" /> </p>
